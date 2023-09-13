@@ -1,6 +1,5 @@
 ![Profile Introduction](https://github.com/tristanbudd/tristanbudd/blob/main/profile_introduction.png)
-
-### Hi there 👋
+### Hello, I'm Tristan 👋
 
 **tristanbudd/tristanbudd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
