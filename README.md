@@ -4,5 +4,5 @@ I'm an aspiring new Full Stack Developer focusing on **Web Development**, **Data
 
 ![Coding Languages](https://github.com/tristanbudd/tristanbudd/blob/main/coding_languages.png)
 
-![Github Stats](https://github.com/tristanbudd/tristanbudd/blob/main/profile_introduction.png)
+![Github Stats](https://github.com/tristanbudd/tristanbudd/blob/main/github_stats.png)
 ![Tristan's GitHub stats](https://github-readme-stats.vercel.app/api?username=tristanbudd&show_icons=true&theme=dracula)
